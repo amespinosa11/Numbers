@@ -3,6 +3,7 @@ def get_info_numbers(numbers):
 		amount_numbers = 0
 		min_number = 0
 		max_number = 0
+		average = 0
 
 	else:
 		num = numbers.split(",")
@@ -13,8 +14,9 @@ def get_info_numbers(numbers):
 
 		min_number = int(min(list_as_num))
 		max_number = int(max(list_as_num))
+		average = float(sum(list_as_num)/amount_numbers)
 
-	result = [amount_numbers,min_number,max_number]
+	result = [amount_numbers,min_number,max_number,average]
 	return result
 
 
