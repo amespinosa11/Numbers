@@ -6,10 +6,13 @@ def get_info_numbers(numbers):
 
 	else:
 		num = numbers.split(",")
-		numbers_as_list = list(num)
-		amount_numbers = len(numbers_as_list)
-		min_number = int(min((int(i) for i in numbers_as_list)))
-		max_number = int(max((int(i) for i in numbers_as_list)))
+		amount_numbers = len(list(num))
+		list_as_num = []
+		for i in list(num):
+			list_as_num.append(int(i))
+
+		min_number = int(min(list_as_num))
+		max_number = int(max(list_as_num))
 
 	result = [amount_numbers,min_number,max_number]
 	return result
