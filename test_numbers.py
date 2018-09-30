@@ -10,7 +10,7 @@ class TestNumbers(unittest.TestCase):
         self.assertEqual(numbers.get_info_numbers("2"), [1, 2])
 
     def test_info_numbers_two_elements(self):
-        self.assertEqual(numbers.get_info_numbers("2,5"), [2, 5])
+        self.assertEqual(numbers.get_info_numbers("2,5"), [2, 2])
 
     def test_info_numbers_n_elements(self):
         self.assertEqual(numbers.get_info_numbers("2,5,10,3,311"), [5, 2])

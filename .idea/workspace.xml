@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bea0c2d4-9cc3-4e3e-b281-9003ed5c139e" name="Default Changelist" comment="" />
+    <list default="true" id="bea0c2d4-9cc3-4e3e-b281-9003ed5c139e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/test_numbers.py" beforeDir="false" afterPath="$PROJECT_DIR$/test_numbers.py" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -9,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/Numbers$Unittests_in_test_numbers_py.coverage" NAME="Unittests in test_numbers.py Coverage Results" MODIFIED="1538274322934" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/Numbers$Unittests_in_test_numbers_py.coverage" NAME="Unittests in test_numbers.py Coverage Results" MODIFIED="1538274663657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="FUSProjectUsageTrigger">
     <session id="1618962273">
@@ -31,12 +33,12 @@
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
-          <entry key="py" value="74" />
+          <entry key="py" value="85" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="Python" value="74" />
+          <entry key="Python" value="85" />
         </counts>
       </usages-collector>
     </session>
@@ -46,11 +48,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/test_numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+            <state relative-caret-position="204">
+              <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
-                <marker date="1538273959137" expanded="true" signature="70:509" ph="..." />
+                <marker date="1538274663578" expanded="true" signature="70:518" ph="..." />
               </folding>
             </state>
           </provider>
@@ -59,8 +61,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/numbers.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+            <state relative-caret-position="204">
+              <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
             </state>
           </provider>
         </entry>
@@ -164,9 +166,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Unittests_in_test_numbers_py - 2018.09.29 at 20h 49m 24s.xml">
-      <configuration name="Unittests in test_numbers.py" configurationId="tests" />
-    </history-entry>
     <history-entry file="Unittests_in_test_numbers_py - 2018.09.29 at 20h 56m 11s.xml">
       <configuration name="Unittests in test_numbers.py" configurationId="tests" />
     </history-entry>
@@ -188,9 +187,19 @@
     <history-entry file="Unittests_in_test_numbers_py - 2018.09.29 at 21h 19m 23s.xml">
       <configuration name="Unittests in test_numbers.py" configurationId="tests" />
     </history-entry>
+    <history-entry file="Unittests_in_test_numbers_py - 2018.09.29 at 21h 24m 38s.xml">
+      <configuration name="Unittests in test_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_numbers_py - 2018.09.29 at 21h 25m 23s.xml">
+      <configuration name="Unittests in test_numbers.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_test_numbers_py - 2018.09.29 at 21h 31m 03s.xml">
+      <configuration name="Unittests in test_numbers.py" configurationId="tests" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24962178" />
@@ -226,18 +235,18 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="15" column="17" lean-forward="true" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+        <state relative-caret-position="204">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/test_numbers.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="289">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="204">
+          <caret line="12" column="63" selection-start-line="12" selection-start-column="63" selection-end-line="12" selection-end-column="63" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
-            <marker date="1538273959137" expanded="true" signature="70:509" ph="..." />
+            <marker date="1538274663578" expanded="true" signature="70:518" ph="..." />
           </folding>
         </state>
       </provider>
