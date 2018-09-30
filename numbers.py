@@ -9,3 +9,8 @@ def get_amount_numbers(numbers):
 
 	result = [amount_numbers]
 	return result
+
+def get_min_number(numbers):
+	amount_numbers = get_amount_numbers(numbers)[0]
+	result = [amount_numbers,0]
+	return result
